@@ -1,5 +1,3 @@
-CinemaStoreUI : 
-
 CinemaStoreUI is a robust Java Swing application designed for managing and playing a wide variety of media files. This application provides users with a seamless experience to add, search, and play media files, supporting popular formats such as MP4, MKV, and AVI. With a modern and intuitive user interface, CinemaStoreUI ensures an enjoyable and efficient media management experience.
 
 Features
